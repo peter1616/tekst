@@ -1,0 +1,153 @@
+body {
+	margin: 0;
+	background: #000;
+	font-family:Verdana, Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+}
+
+#wrapper {
+	width: 920px;
+	margin: 0 ;
+}
+
+#img {
+	display: block;
+	width:100px;
+	height:100px;
+	
+}
+
+#top {
+	background-image:url("top.jpg");
+	height: 121px;
+	width:  1563px;
+	padding: 10px;
+	float:left
+	position: relative;
+	
+}
+#logo h1 {
+	background-image: url("logo.png")  ;
+	background-repeat: no-repeat;
+	height: 50px;
+	position: absolute;
+	width: 150px;
+	top: 45px;	
+}
+#logo h1 a {
+	display: block;
+	text-indent: -999px;
+	}
+
+#content {
+	font-size: 1.1em;
+	background: url("kreski2.gif");
+	
+	}
+	
+#dane {
+	margin: 1em;
+	display: block;
+	width: 300px;
+	font-size: 1em;
+	padding: 1em;
+	color:#000
+	
+	
+	}
+#dane_2 {
+	margin: 1em;
+	font-size: 1em;
+	color:#000
+}
+	
+#wyksz {
+	margin: 1em;
+	display: block;
+	width: 300px;
+	font-size: 1em;
+	padding: 1em;
+	color:#000
+	}
+#wyksz_2 {
+	margin: 1em;
+	font-size: 1em;
+	color:#000
+}
+#jezyki {
+	margin: 1em;
+	display: block;
+	width: 300px;
+	font-size: 1em;
+	padding: 1em;
+	color:#000
+	}
+#jezyki_2 {
+	margin: 1em;
+	font-size: 1em;
+	color:#000
+}
+#umj {
+	margin: 1em;
+	display: block;
+	width: 300px;
+	font-size: 1em;
+	padding: 1em;
+	color:#000
+}
+#umj_2 {
+	margin: 1em;
+	font-size: 1em;
+	color:#000
+}
+#zain {
+	margin: 1em;
+	display: block;
+	width: 300px;
+	font-size: 1em;
+	padding: 1em;
+	color:#000
+}
+#zain_2 {
+	margin: 0em;
+	font-size: 1.1em;
+	color:#000
+}
+
+ul {
+	margin: 0em;
+	list-style-image: url("arrow.gif");
+	line-height: 1.4;
+	color:#000
+	
+}
+#footer {
+background: #343434;
+color: #fff;
+float: left;
+width: 100%;
+}
+#copyright, #footer-menu {
+	
+	width: 300px;
+	padding: 10px;
+}
+#copyright {
+	
+	float: left;
+	width: 300px;
+}
+#footer-menu {
+	
+	float: right;
+	width: 300px;
+	text-align: right;
+}
+#footer-menu a {
+	
+	color: #fff;
+	padding: 0 5px;
+}
+	
+	
